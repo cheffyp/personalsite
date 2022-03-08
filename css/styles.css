@@ -29,7 +29,13 @@ h3 {
 
 a {
   color: #11999E;
-  margin: 30px;
+  margin: 10px 20px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
 }
 
 hr {
@@ -143,7 +149,7 @@ p {
 
 .bottom-container {
   background-color: #66BFBF;
-  padding: 50px;
+  padding: 50px 0 20px;
   line-height: 2;
 }
 
